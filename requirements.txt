@@ -6,3 +6,4 @@ matplotlib
 Pillow
 psutil
 opencv-python
+flask-cors
